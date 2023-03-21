@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HIOF.Net.V2023.ExchangeSky.ExchangeRateService", "HIOF.Net.V2023.ExchangeSky.ExchangeRateService\HIOF.Net.V2023.ExchangeSky.ExchangeRateService.csproj", "{D952D667-BDC1-446F-A48A-4BF3950FCB17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HIOF.Net.V2023.ExchangeSky.Terminal", "HIOF.Net.V2023.ExchangeSky.Terminal\HIOF.Net.V2023.ExchangeSky.Terminal.csproj", "{E6331177-DFBB-4CF6-98CA-52AA72BB81BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HIOF.Net.V2023.ExchangeSky.WalletService", "HIOF.Net.V2023.ExchangeSky.WalletService\HIOF.Net.V2023.ExchangeSky.WalletService.csproj", "{28A1F7B6-84D5-4BF1-95F8-0C442196A257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIOF.Net.V2023.ExchangeSky.WalletService.Data", "HIOF.Net.V2023.ExchangeSky.WalletService.Data\HIOF.Net.V2023.ExchangeSky.WalletService.Data.csproj", "{A6E04FCA-676F-4B61-B0FB-DCD79A70F5E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D952D667-BDC1-446F-A48A-4BF3950FCB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D952D667-BDC1-446F-A48A-4BF3950FCB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D952D667-BDC1-446F-A48A-4BF3950FCB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D952D667-BDC1-446F-A48A-4BF3950FCB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6331177-DFBB-4CF6-98CA-52AA72BB81BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6331177-DFBB-4CF6-98CA-52AA72BB81BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6331177-DFBB-4CF6-98CA-52AA72BB81BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6331177-DFBB-4CF6-98CA-52AA72BB81BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A1F7B6-84D5-4BF1-95F8-0C442196A257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A1F7B6-84D5-4BF1-95F8-0C442196A257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A1F7B6-84D5-4BF1-95F8-0C442196A257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A1F7B6-84D5-4BF1-95F8-0C442196A257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E04FCA-676F-4B61-B0FB-DCD79A70F5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E04FCA-676F-4B61-B0FB-DCD79A70F5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E04FCA-676F-4B61-B0FB-DCD79A70F5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E04FCA-676F-4B61-B0FB-DCD79A70F5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BAB66D7-3100-471E-95B0-C23C111891B7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "HIOF.Net.V2023.ExchangeSky.Terminal": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63366;http://localhost:63367"
+    }
+  }
+}
